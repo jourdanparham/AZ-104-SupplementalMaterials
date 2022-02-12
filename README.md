@@ -19,6 +19,9 @@
 * [Azure Charts - Your Cloud Radar](https://azurecharts.com/)
 * [Partner Learning Plans](https://microsoft.github.io/PartnerResources/) 
 * [Exam Sandbox](https://techcommunity.microsoft.com/t5/microsoft-learn-blog/new-to-microsoft-certification-exams-we-have-something-you-need/ba-p/3041520)
+* [Azure Training Journey Guide](https://aka.ms/esiAzureTrainingJourney)
+
+
 
 
 ### Class logistics:
