@@ -5,7 +5,7 @@
 
 
 
-* [Microsoft TechCommunity Blog](https://techcommunity.microsoft.com/)
+* [Microsoft Tech Community Blog](https://techcommunity.microsoft.com/)
 * [Microsoft Learn](https://docs.microsoft.com/en-us/learn/)
 * [Microsoft Documentation](https://docs.microsoft.com/en-us/)
 * [Azure YouTube channel](https://www.youtube.com/c/MicrosoftAzure/)
@@ -25,7 +25,8 @@
 
 
 
-* [Lab setup](http://aka.ms/labsetup)
+* [Lab setup instructions: 5 steps](http://aka.ms/labsetup)
 * [Lab environment](https://esi.learnondemand.net/)
+* [Lab content and files](https://microsoftlearning.github.io/AZ-104-MicrosoftAzureAdministrator/)
 * [Course materials](http://aka.ms/MOC_AZ-104T00)
 * [Exam registration walkthrough](https://www.microsoft.com/en-us/videoplayer/embed/RE4zwHz)
