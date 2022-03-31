@@ -4,7 +4,7 @@
 ### General Resources:
 
 
-
+* [AZ-104 Lab Walkthrough Video Series](https://youtube.com/playlist?list=PL6B7eStlY4vwNPtijHwtw7bxswfONH63e)
 * [Microsoft Tech Community Blog](https://techcommunity.microsoft.com/)
 * [Microsoft Learn](https://docs.microsoft.com/en-us/learn/)
 * [Microsoft Documentation](https://docs.microsoft.com/en-us/)
