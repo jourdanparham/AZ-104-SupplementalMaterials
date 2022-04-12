@@ -4,6 +4,7 @@
 
 * [Configure virtual networks - Learn | Microsoft Docs](https://docs.microsoft.com/en-us/learn/modules/configure-virtual-networks/)
 * [Understanding CIDR Notation](https://devblogs.microsoft.com/premier-developer/understanding-cidr-notation-when-designing-azure-virtual-networks-and-subnets/)
+* [Planning for IP addressing](https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/ready/azure-best-practices/plan-for-ip-addressing)
 * [Public IP addresses in Azure - Azure Virtual Network | Microsoft Docs](https://docs.microsoft.com/en-us/azure/virtual-network/ip-services/public-ip-addresses)
 * [Overview of IPv6 for Azure Virtual Network | Microsoft Docs](https://docs.microsoft.com/en-us/azure/virtual-network/ip-services/ipv6-overview)
 * [Private IP addresses in Azure | Microsoft Docs](https://docs.microsoft.com/en-us/azure/virtual-network/ip-services/private-ip-addresses)
