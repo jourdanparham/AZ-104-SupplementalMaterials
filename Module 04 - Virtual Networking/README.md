@@ -11,4 +11,5 @@
 * [Azure Firewall FAQ | Microsoft Docs](https://docs.microsoft.com/en-us/azure/firewall/firewall-faq#what-is-the-difference-between-network-security-groups--nsgs--and-azure-firewall)
 * [Pricing - Azure Firewall | Microsoft Azure](https://azure.microsoft.com/en-in/pricing/details/azure-firewall/)
 * [Azure Firewall rule processing logic | Microsoft Docs](https://docs.microsoft.com/en-us/azure/firewall/rule-processing)
+* [Azure security baseline for Virtual Network](https://docs.microsoft.com/en-us/security/benchmark/azure/baselines/virtual-network-security-baseline)
 * [What is Azure Private DNS? | Microsoft Docs](https://docs.microsoft.com/en-us/azure/dns/private-dns-overview#benefits)
