@@ -15,3 +15,4 @@
 * [Azure Firewall rule processing logic | Microsoft Docs](https://docs.microsoft.com/en-us/azure/firewall/rule-processing)
 * [Azure security baseline for Virtual Network](https://docs.microsoft.com/en-us/security/benchmark/azure/baselines/virtual-network-security-baseline)
 * [What is Azure Private DNS? | Microsoft Docs](https://docs.microsoft.com/en-us/azure/dns/private-dns-overview#benefits)
+* [Overview of DNS zones and records](https://docs.microsoft.com/en-us/azure/dns/dns-zones-records?msclkid=c339723db4f311ecb60241316a836e63)
