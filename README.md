@@ -9,7 +9,7 @@
 * [Microsoft Learn](https://docs.microsoft.com/en-us/learn/)
 * [Microsoft Documentation](https://docs.microsoft.com/en-us/)
 * [Azure YouTube channel](https://www.youtube.com/c/MicrosoftAzure/)
-* [Study guides](http://aka.ms/esistudyguide)
+* [Study guides](http://aka.ms/esistudyguides)
 * [Learn Azure in a Month of Lunches](https://azure.microsoft.com/en-us/resources/learn-azure-in-a-month-of-lunches/en-us/)
 * [Analyst Reports, E-Books, and White Papers | Microsoft Azure](https://azure.microsoft.com/en-us/resources/whitepapers/)
 * [Azure DevOps Hands-On Labs | Azure DevOps Hands-on-Labs (azuredevopslabs.com)](https://azuredevopslabs.com/)
