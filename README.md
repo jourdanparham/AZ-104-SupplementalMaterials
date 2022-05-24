@@ -28,7 +28,6 @@
 
 
 
-* [Lab setup instructions: 5 steps](http://aka.ms/labsetup)
 * [Lab environment](https://esi.learnondemand.net/)
 * [Lab content and files](https://microsoftlearning.github.io/AZ-104-MicrosoftAzureAdministrator/)
 * [Course materials](http://aka.ms/MOC_AZ-104T00)
