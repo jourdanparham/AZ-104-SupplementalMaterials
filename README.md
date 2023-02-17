@@ -28,7 +28,7 @@
 
 
 
-* [Lab environment](https://esi.learnondemand.net/)
+
 * [Lab content and files](https://microsoftlearning.github.io/AZ-104-MicrosoftAzureAdministrator/)
 * [Course materials](http://aka.ms/MOC_AZ-104T00)
-* [Exam registration walkthrough](https://www.microsoft.com/en-us/videoplayer/embed/RE4zwHz)
+
